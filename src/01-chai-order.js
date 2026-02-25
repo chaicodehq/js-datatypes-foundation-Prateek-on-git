@@ -111,7 +111,6 @@ export function hasSpecialIngredient(order, ingredient) {
 
   return order.toLowerCase().includes(ingredient.toLowerCase());
  
-
 }
 
 export function getFirstAndLastChar(order) {
