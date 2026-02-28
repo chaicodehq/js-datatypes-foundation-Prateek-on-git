@@ -118,6 +118,9 @@ export function isInCart(cart, item) {
 return cart.includes(item)
 
 
+
+
+
 }
 
 export function mergeCarts(cart1, cart2) {
